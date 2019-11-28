@@ -1,0 +1,4 @@
+服务器外网地址：220.248.102.54
+更新文件的路径：C://Sites/WeChatClient/Modules/HR/
+覆盖对应4个aspx即可
+P.S.一般我会在D盘下backup将对应的文件做一个备份
