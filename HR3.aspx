@@ -432,6 +432,20 @@
 
 
 
+            <div class="first">
+                <div class="one">
+                    <img src="/img/first1.jpg" />
+                </div>
+
+                <div class="two">
+                    <p class="de">部门：香港台湾</p>
+                    <div class="int" onclick="location.href='http://jobs.51job.com/all/co563890.html'">
+                        <div class="po">职位：Product Sales Specialist</div>
+                        <div class="di">地点·香港</div>
+                    </div>
+                </div>
+            </div>
+
 
 
 
