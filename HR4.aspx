@@ -186,7 +186,7 @@
 
                 <div class="two">
                     <div class="de">部门：Supply Chain Management</div>
-                    <div class="int" onclick="https://jobs.51job.com/shanghai-jaq/115008266.html?s=04'">
+                    <div class="int" onclick="location.href='https://jobs.51job.com/shanghai-jaq/115008266.html?s=04'">
                         <div class="po">
                             职位：Instrument Controller
                         </div>
@@ -196,9 +196,29 @@
                 </div>
             </div>
 
+
             <div class="first">
                 <div class="one">
                     <img src="/img/third1.jpg" />
+                </div>
+
+                <div class="two">
+                    <div class="de">部门：Supply Chain Management</div>
+                    <div class="int" onclick="location.href='http://jobs.51job.com/all/co563890.html'">
+                        <div class="po">
+                            职位：Demand and Supply Planner
+                        </div>
+                        <div class="di">地点·上海</div>
+                    </div>
+
+                </div>
+            </div>
+
+
+
+            <div class="first">
+                <div class="one">
+                    <img src="/img/first1.jpg" />
                 </div>
 
                 <div class="two">
@@ -215,7 +235,7 @@
 
             <div class="first">
                 <div class="one">
-                    <img src="/img/first1.jpg" />
+                    <img src="/img/second1.jpg" />
                 </div>
 
                 <div class="two">
@@ -229,7 +249,7 @@
 
             <div class="first">
                 <div class="one">
-                    <img src="/img/second1.jpg" />
+                    <img src="/img/third1.jpg" />
                 </div>
 
                 <div class="two">
@@ -240,24 +260,6 @@
                     </div>
                 </div>
             </div>
-
-
-
-            <div class="first">
-                <div class="one">
-                    <img src="/img/third1.jpg" />
-                </div>
-
-                <div class="two">
-                    <p class="de">部门：Commercial Training & Education</p>
-                    <div class="int" onclick="location.href='http://jobs.51job.com/all/co563890.html'">
-                        <div class="po">职位：Commercial Training Manager</div>
-                        <div class="di">地点·上海</div>
-                    </div>
-                </div>
-            </div>
-
-
 
 
             <div class="first">
@@ -331,21 +333,6 @@
                 <div class="two">
                     <p class="de">部门：先进伤口管理事业部</p>
                     <div class="int" onclick="location.href='http://jobs.51job.com/all/co563890.html'">
-                        <div class="po">职位：National Clinical Support Manager</div>
-                        <div class="di">地点·上海</div>
-                    </div>
-                </div>
-            </div>
-
-
-            <div class="first">
-                <div class="one">
-                    <img src="/img/third1.jpg" />
-                </div>
-
-                <div class="two">
-                    <p class="de">部门：先进伤口管理事业部</p>
-                    <div class="int" onclick="location.href='http://jobs.51job.com/all/co563890.html'">
                         <div class="po">职位：Service Engineer</div>
                         <div class="di">地点·上海</div>
                     </div>
@@ -355,7 +342,7 @@
 
             <div class="first">
                 <div class="one">
-                    <img src="/img/first1.jpg" />
+                    <img src="/img/third1.jpg" />
                 </div>
 
                 <div class="two">
@@ -370,7 +357,7 @@
 
             <div class="first">
                 <div class="one">
-                    <img src="/img/second1.jpg" />
+                    <img src="/img/first1.jpg" />
                 </div>
 
                 <div class="two">
@@ -385,7 +372,7 @@
 
             <div class="first">
                 <div class="one">
-                    <img src="/img/third1.jpg" />
+                    <img src="/img/second1.jpg" />
                 </div>
 
                 <div class="two">
@@ -399,7 +386,7 @@
 
             <div class="first">
                 <div class="one">
-                    <img src="/img/first1.jpg" />
+                    <img src="/img/third1.jpg" />
                 </div>
 
                 <div class="two">
@@ -414,7 +401,7 @@
 
             <div class="first">
                 <div class="one">
-                    <img src="/img/second1.jpg" />
+                    <img src="/img/first1.jpg" />
                 </div>
 
                 <div class="two">
@@ -428,7 +415,7 @@
 
             <div class="first">
                 <div class="one">
-                    <img src="/img/third1.jpg" />
+                    <img src="/img/second1.jpg" />
                 </div>
 
                 <div class="two">
