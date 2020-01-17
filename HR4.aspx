@@ -172,7 +172,7 @@
                 <div class="two">
                     <div class="de">部门：耳鼻喉事业部</div>
                     <div class="int" onclick="location.href='http://jobs.51job.com/all/co563890.html'">
-                        <div class="po">职位：Technical Support Supervisor/Manager</div>
+                        <div class="po">职位：Technical Support</div>
                         <div class="di">地点·上海/北京</div>
                     </div>
                 </div>
@@ -233,23 +233,11 @@
                 </div>
             </div>
 
+
+
             <div class="first">
                 <div class="one">
                     <img src="/img/second1.jpg" />
-                </div>
-
-                <div class="two">
-                    <div class="de">部门：Market Access</div>
-                    <div class="int" onclick="location.href='https://jobs.51job.com/shanghai-jaq/116892290.html?s=04'">
-                        <div class="po">职位：Tender Associate Manager, CFC</div>
-                        <div class="di">地点·上海</div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="first">
-                <div class="one">
-                    <img src="/img/third1.jpg" />
                 </div>
 
                 <div class="two">
@@ -262,25 +250,10 @@
             </div>
 
 
-            <div class="first">
-                <div class="one">
-                    <img src="/img/first1.jpg" />
-                </div>
-
-                <div class="two">
-                    <p class="de">部门：Commercial Training & Education</p>
-                    <div class="int" onclick="location.href='http://jobs.51job.com/all/co563890.html'">
-                        <div class="po">职位：Sr. Commercial Training Manager</div>
-                        <div class="di">地点·上海</div>
-                    </div>
-                </div>
-            </div>
-
-
 
             <div class="first">
                 <div class="one">
-                    <img src="/img/second1.jpg" />
+                    <img src="/img/third1.jpg" />
                 </div>
 
                 <div class="two">
@@ -294,7 +267,7 @@
 
             <div class="first">
                 <div class="one">
-                    <img src="/img/third1.jpg" />
+                    <img src="/img/first1.jpg" />
                 </div>
 
                 <div class="two">
@@ -312,7 +285,7 @@
 
             <div class="first">
                 <div class="one">
-                    <img src="/img/first1.jpg" />
+                    <img src="/img/second1.jpg" />
                 </div>
 
                 <div class="two">
@@ -327,7 +300,7 @@
 
             <div class="first">
                 <div class="one">
-                    <img src="/img/second1.jpg" />
+                    <img src="/img/third1.jpg" />
                 </div>
 
                 <div class="two">
@@ -342,7 +315,7 @@
 
             <div class="first">
                 <div class="one">
-                    <img src="/img/third1.jpg" />
+                    <img src="/img/first1.jpg" />
                 </div>
 
                 <div class="two">
@@ -357,7 +330,7 @@
 
             <div class="first">
                 <div class="one">
-                    <img src="/img/first1.jpg" />
+                    <img src="/img/second1.jpg" />
                 </div>
 
                 <div class="two">
@@ -372,7 +345,7 @@
 
             <div class="first">
                 <div class="one">
-                    <img src="/img/second1.jpg" />
+                    <img src="/img/third1.jpg" />
                 </div>
 
                 <div class="two">
@@ -384,19 +357,6 @@
                 </div>
             </div>
 
-            <div class="first">
-                <div class="one">
-                    <img src="/img/third1.jpg" />
-                </div>
-
-                <div class="two">
-                    <p class="de">部门：Commercial Excellence</p>
-                    <div class="int" onclick="location.href='http://jobs.51job.com/all/co563890.html'">
-                        <div class="po">职位：Commercial Excellence BP</div>
-                        <div class="di">地点·上海</div>
-                    </div>
-                </div>
-            </div>
 
 
             <div class="first">
@@ -429,6 +389,65 @@
 
 
 
+
+            <div class="first">
+                <div class="one">
+                    <img src="/img/third1.jpg" />
+                </div>
+
+                <div class="two">
+                    <p class="de">部门：Robotics</p>
+                    <div class="int" onclick="location.href='http://jobs.51job.com/all/co563890.html'">
+                        <div class="po">职位：Technical Support</div>
+                        <div class="di">地点·北京</div>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="first">
+                <div class="one">
+                    <img src="/img/first1.jpg" />
+                </div>
+
+                <div class="two">
+                    <p class="de">部门：Robotics</p>
+                    <div class="int" onclick="location.href='http://jobs.51job.com/all/co563890.html'">
+                        <div class="po">职位：Technical Support</div>
+                        <div class="di">地点·上海</div>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="first">
+                <div class="one">
+                    <img src="/img/second1.jpg" />
+                </div>
+
+                <div class="two">
+                    <p class="de">部门：Robotics</p>
+                    <div class="int" onclick="location.href='http://jobs.51job.com/all/co563890.html'">
+                        <div class="po">职位：Technical Support</div>
+                        <div class="di">地点·广州</div>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="first">
+                <div class="one">
+                    <img src="/img/third1.jpg" />
+                </div>
+
+                <div class="two">
+                    <p class="de">部门：Commercial Training & Education</p>
+                    <div class="int" onclick="location.href='http://jobs.51job.com/all/co563890.html'">
+                        <div class="po">职位：Commercial Training Manager</div>
+                        <div class="di">地点·上海</div>
+                    </div>
+                </div>
+            </div>
 
 
 

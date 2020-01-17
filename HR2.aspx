@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="HR1.aspx.cs" Inherits="WeChatClient.Modules.HR.HR1" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="HR2.aspx.cs" Inherits="WeChatClient.Modules.HR.HR2" %>
 
 <!DOCTYPE html>
 
@@ -164,21 +164,22 @@
 
         <div class="book">
 
-
             <div class="first">
                 <div class="one">
                     <img src="/img/first1.jpg" />
                 </div>
 
                 <div class="two">
-                    <div class="de">部门：先进伤口事业部</div>
+                    <div class="de">部门：运动医学事业部</div>
                     <div class="int" onclick="location.href='http://jobs.51job.com/all/co563890.html'">
-                        <div class="po">职位：Sr.Accountant</div>
-                        <div class="di">地点·苏州</div>
+                        <div class="po">
+                            职位：Product Manager
+                        </div>
+                        <div class="di">地点·上海</div>
                     </div>
+
                 </div>
             </div>
-
 
             <div class="first">
                 <div class="one">
@@ -186,13 +187,14 @@
                 </div>
 
                 <div class="two">
-                    <div class="de">部门：先进伤口事业部</div>
+                    <p class="de">部门：香港台湾</p>
                     <div class="int" onclick="location.href='http://jobs.51job.com/all/co563890.html'">
-                        <div class="po">职位：Project Planner</div>
-                        <div class="di">地点·苏州</div>
+                        <div class="po">职位：Assistant Product Manager</div>
+                        <div class="di">地点·香港</div>
                     </div>
                 </div>
             </div>
+
 
 
             <div class="first">
@@ -201,14 +203,13 @@
                 </div>
 
                 <div class="two">
-                    <div class="de">部门：先进伤口事业部</div>
+                    <p class="de">部门：先进伤口管理事业部</p>
                     <div class="int" onclick="location.href='http://jobs.51job.com/all/co563890.html'">
-                        <div class="po">职位：Office Administrator</div>
-                        <div class="di">地点·苏州</div>
+                        <div class="po">职位：Product Manager</div>
+                        <div class="di">地点·上海</div>
                     </div>
                 </div>
             </div>
-
 
             <div class="first">
                 <div class="one">
@@ -216,27 +217,14 @@
                 </div>
 
                 <div class="two">
-                    <div class="de">部门：Orthopedics</div>
+                    <p class="de">部门：创伤事业部</p>
                     <div class="int" onclick="location.href='http://jobs.51job.com/all/co563890.html'">
-                        <div class="po">职位：Automation Engineer</div>
-                        <div class="di">地点·苏州</div>
+                        <div class="po">职位：Senior Product Manager</div>
+                        <div class="di">地点·上海</div>
                     </div>
                 </div>
             </div>
 
-            <div class="first">
-                <div class="one">
-                    <img src="/img/third1.jpg" />
-                </div>
-
-                <div class="two">
-                    <div class="de">部门：Orthopedics</div>
-                    <div class="int" onclick="location.href='http://jobs.51job.com/all/co563890.html'">
-                        <div class="po">职位：R&D Engineer</div>
-                        <div class="di">地点·北京</div>
-                    </div>
-                </div>
-            </div>
 
 
 
